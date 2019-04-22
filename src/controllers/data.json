@@ -1,0 +1,210 @@
+{
+  "title": "Ishpreet Singh",
+  "name": "ISHPREET",
+  "surname": "SINGH",
+  "address": "",
+  "email": "ishpreetsingh2808@gmail.com",
+  "aboutMe": "I am a software developer who loves to solve challenging coding problems. Currently working as a JS developer designing 2D Math Based Games. Fond of Machine Learning, a Competitive Programmer and an Algorithmic enthusiast.",
+  "socialMedia": [
+    {
+      "icon": "fa fa-github fa-stack-1x fa-inverse",
+      "link": "https://github.com/ishpreet-singh",
+      "key": "facebook"
+    },
+    {
+      "icon": "fa fa-linkedin fa-stack-1x fa-inverse",
+      "link": "https://www.linkedin.com/in/ishpreetsingh2808/",
+      "key": "linkedin"
+    },
+    {
+      "icon": "fa fa-twitter fa-stack-1x fa-inverse",
+      "link": "https://twitter.com/ishpreet28",
+      "key": "twitter"
+    },
+    {
+      "icon": "fa fa-stack-overflow fa-stack-1x fa-inverse",
+      "link": "https://stackoverflow.com/users/5811973/ishpreet",
+      "key": "stackoverflow"
+    },
+    {
+      "icon": "fa fa-quora fa-stack-1x fa-inverse",
+      "link": "https://www.quora.com/profile/Ishpreet-Singh-20",
+      "key": "quora"
+    },
+    {
+      "icon": "fa fa-instagram fa-stack-1x fa-inverse",
+      "link": "https://www.instagram.com/_ishpreetsingh_/",
+      "key": "instagram"
+    }
+  ],
+  "experience":[
+    {
+      "position": "Software Developer",
+      "company": "Studypad",
+      "description": "Developing 2-D games in JS using phaser and designing math based worksheets for students.",
+      "startDate": "December 2017",
+      "endDate": "Present"
+    },
+    {
+      "position": "Software Engineer",
+      "company": "Jugnoo",
+      "description": "Designed and maintained a modern, enterprise-ready web app known as Kato, developed in Python and Flask providing huge set of visualisations and supports multiple relational databases.",
+      "startDate": "December 2017",
+      "endDate": "June 2017"
+    },
+    {
+      "position": "Software Engineer Intern",
+      "company": "Interviewbit",
+      "description": "Designed a platfrom using ROR(like hackerrank) where engineers or hiring managers can create assessment for students to test their knowledge on various subjects.",
+      "startDate": "April 2017",
+      "endDate": "Jan 2017"
+    },
+    {
+      "position": "Software Engineer Intern",
+      "company": "Urbanclap",
+      "description": "Designed a 3-layered ANN model which aims to improve the match making process between a customer, provider and to reduce the match making cost.",
+      "startDate": "October 2016",
+      "endDate": "August 2016"
+    },
+    {
+      "position": "Software Engineer Intern",
+      "company": "Tatras Data",
+      "description": "During the course of my internship I designed Content Based and Collaborative Based Recommender System for Hindi News Articles using Python",
+      "startDate": "July 2016",
+      "endDate": "June 2016"
+    }
+  ],
+  "education": [
+    {
+      "schoolName": "Guru Tegh Bahadur Institute of Technology",
+      "major": "Bachelor of Technology - Computer Science",
+      "percentage": "82.70",
+      "gpa": "",
+      "startDate": "August 2013",
+      "endDate": "June 2017",
+      "standard": ""
+    },
+    {
+      "schoolName": "Mira Model School",
+      "major": "Computer Science",
+      "percentage": "90.20",
+      "gpa": "",
+      "startDate": "April 2011",
+      "endDate": "March 2013",
+      "standard": "11th - 12th"
+    },
+    {
+      "schoolName": "Mira Model School",
+      "major": "",
+      "percentage": "",
+      "gpa": "9.2",
+      "startDate": "April 2001",
+      "endDate": "March 2011",
+      "standard": "1st - 10th"
+    }
+  ],
+  "skills": [
+    {
+      "skillName": "devicons devicons-git",
+      "key": "git"
+    },
+    {
+      "skillName": "devicons devicons-github",
+      "key": "github"
+    },
+    {
+      "skillName": "devicons devicons-python",
+      "key": "python"
+    },
+    {
+      "skillName": "devicons devicons-javascript",
+      "key": "javascript"
+    },
+    {
+      "skillName": "devicons devicons-markdown",
+      "key": "markdown"
+    },
+    {
+      "skillName": "devicons devicons-mysql",
+      "key": "mysql"
+    },
+    {
+      "skillName": "devicons devicons-html5",
+      "key": "html5"
+    },
+    {
+      "skillName": "devicons devicons-vim",
+      "key": "vim"
+    },
+    {
+      "skillName": "devicons devicons-npm",
+      "key": "npm"
+    },
+    {
+      "skillName": "devicons devicons-stackoverflow",
+      "key": "stackoverflow"
+    },
+    {
+      "skillName": "devicons devicons-redis",
+      "key": "redis"
+    },
+    {
+      "skillName": "devicons devicons-sublime",
+      "key": "sublime"
+    },
+    {
+      "skillName": "devicons devicons-code",
+      "key": "code"
+    }
+  ],
+  "workflow": [
+    {
+      "skillName": "C"
+    },
+    {
+      "skillName": "Cpp"
+    },
+    {
+      "skillName": "Python"
+    },
+    {
+      "skillName": "Javascript"
+    },
+    {
+      "skillName": "Data Structures"
+    },
+    {
+      "skillName": "Algorithms"
+    }
+  ],
+  "awards": [
+    {
+      "description": "Qualified for ACM ICPC onsite regionals in 2015 and 2016 respectively.",
+      "key": "ACM ICPC"
+    },
+    {
+      "description": "Qualified to round 1 Google Code Jam 2016 & Elimination Round Codechef Snackdown 2017",
+      "key": "Google Code Jam"
+    },
+    {
+      "description": "Was among Top 3% candidates in Codechef Long Challenge (December 2016)",
+      "key": "Codechef Long Challenge"
+    },
+    {
+      "description": "Won 6 scholastics award and entitled as Student of The Year",
+      "key": "Student of The Year"
+    },
+    {
+      "description": "Runner Up of CodeWarz, competitive coding contest organised by IEEE in 2016",
+      "key": "CodeWarz"
+    }
+  ],
+  "interests": [
+    {
+      "description": "Apart from being a software developer, I enjoy most of my time playing cricket. I enjoying travelling."
+    },
+    {
+      "description": "When forced indoors, I follow a number of fantasy movies like Avengers and television shows like Game of Thrones and Friends, and spend most amount of my free time practicing Competitive Programming."
+    }
+  ]
+}
